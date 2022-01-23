@@ -1,0 +1,19 @@
+{
+  "name": "elencristinafurgala_13_23012022",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.13",
+    "vite-plugin-react": "^4.0.0"
+  }
+}
